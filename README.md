@@ -1,2 +1,4 @@
 # SistemaFuzzy
 Modelagem de Sistema Fuzzy - Controlador de Temperatura de um forno industrial
+
+Elaborar a modelagem de um sistema difuso (fuzzy) para uma aplicação direcionada a CLASSIFICAÇÃO, DIAGNÓSTICO, APOIO A DECISÃO ou até mesmo na área industrial (Controlador Fuzzy), conforme ideias discutidas em aula. O sistema deverá conter, pelo menos 3 variáveis linguisticas de entrada e uma variável linguistica de saída (pode ter mais saídas). O relatório da atividade deverá apresentar um descritivo da aplicação, o modelo, descrevendo as variáveis, seus conjuntos fuzzy, as regras da base de conhecimento heurístico do sistema, o código da aplicação e gráficos da simulação da execução, incluindo o ponto centróide do processo de defuzzificação. Pode ser utilizada a biblioteca Skfuzzy Python ou Jfuzzy Java. 
